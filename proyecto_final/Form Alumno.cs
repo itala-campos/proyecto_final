@@ -10,19 +10,19 @@ using System.Windows.Forms;
 
 namespace proyecto_final
 {
-    public partial class Form1 : Form
+    public partial class Form_Alumno : Form
     {
-        public Form1()
+        public Form_Alumno()
         {
             InitializeComponent();
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label4_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
